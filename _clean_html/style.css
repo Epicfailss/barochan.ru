@@ -1,0 +1,9 @@
+@font-face {
+	font-family: "Lato-Heavy";
+	src: url("C:\Users\Aferist\Desktop\start_html-master\_clean_html\fonts\LatoHeavy");
+	src: url("C:\Users\Aferist\Desktop\start_html-master\_clean_html\fonts\LatoHeavy#iefix") format("embedded-opentype"),
+			 url("C:\Users\Aferist\Desktop\start_html-master\_clean_html\fonts\LatoHeavy") format("woff"),
+			 url("C:\Users\Aferist\Desktop\start_html-master\_clean_html\fonts\LatoHeavy") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
